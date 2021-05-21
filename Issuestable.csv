@@ -1,0 +1,8 @@
+"name","description","unit_abbr","unit_full"
+"Energy Use","Fuel consumption in various forms (fuel, electricity, heating, cooling, or steam) from renewable and non-renewable sources.","MWh","megawatt-hours"
+"Water Consumption","Water taken out of the ecosystem or local community by an organization, temporarily or permanently.","KM3","cubic kilometers"
+"CEO Compensation Ratio","The ratio of total CEO compensation to median employee compensation.",":1",NULL
+"Board Independence","The percentage of independent members on the board of directors.","%",NULL
+"Women in Leadership","The percentage of women in senior leadership roles.","%",NULL
+"Women on Board","The percentage of women on the board of directors.","%",NULL
+"Carbon Emissions","Emissions that contribute to the greenhouse effect by absorbing infrared radiation (Scope 1 & 2).","MMt","millions of metric tons of CO2 equivalents"
